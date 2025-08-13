@@ -36,5 +36,5 @@ Sou Analista de Dados e especialista em Business Intelligence, com mais de **5 a
 
 ## 📫 Vamos nos conectar!
 
-- [LinkedIn]([https://linkedin.com/in/SEUUSUARIO](https://www.linkedin.com/in/gabriel-adam-de-oliveira-ab6811142/)  
-- [E-mail](gabriealdam79@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/gabriel-adam-de-oliveira-ab6811142/
+- E-mail: gabriealdam79@gmail.com
