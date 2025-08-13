@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel!
 
-<!--
-**gabrieladam/gabrieladam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Dados e especialista em Business Intelligence, com mais de **5 anos de experiência** no desenvolvimento de soluções completas de dados — desde a modelagem e ETL até a entrega de dashboards interativos e análises estratégicas.
 
-Here are some ideas to get you started:
+💡 **O que eu faço:**
+- Desenvolvimento de dashboards e relatórios interativos.
+- Criação de pipelines de ETL e modelagem de dados.
+- Otimização de consultas SQL e performance em BI.
+- Transformação de dados brutos em insights acionáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+**Business Intelligence**
+- Tableau • Tableau Prep • Power BI • Qlik Sense • QlikView
+
+**Bancos de Dados**
+- Microsoft SQL Server • Oracle • MySQL • Amazon Redshift
+
+**Linguagens & Scripts**
+- SQL • Python
+
+**Outros**
+- Git/GitHub • Excel Avançado
+
+---
+
+## 📈 Sobre Mim
+
+- 🎯 Focado em gerar valor para o negócio através de dados.
+- 🚀 Sempre aprendendo novas tecnologias e tendências (Data Fabric, Data Mesh, Data Lakehouse).
+- 🌎 Interesse em atuar em projetos internacionais.
+
+---
+
+## 📫 Vamos nos conectar!
+
+- [LinkedIn]([https://linkedin.com/in/SEUUSUARIO](https://www.linkedin.com/in/gabriel-adam-de-oliveira-ab6811142/))  
+- [E-mail](gabriealdam79@gmail.com)
